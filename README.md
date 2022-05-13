@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipesereno
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C, Python and JavaScript
 - 📫 How to reach me: felipeserenososo@gmail.com
 
 <!---
