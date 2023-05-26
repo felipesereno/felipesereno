@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipesereno
 - 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning C, Python and JavaScript
+- 🌱 I’m currently learning object oriented programming with Java, Cloud infrastructure (AWS) and Linux
 - 📫 How to reach me: felipeserenososo@gmail.com
 
 <!---
