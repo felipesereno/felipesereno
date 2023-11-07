@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipesereno
 - 👀 I’m interested in learning new technologies and programming languages
-- 🌱 I’m currently learning object oriented programming with Java, Cloud infrastructure (AWS) and Linux
+- 🌱 I’m currently learning DevOps culture and associated technologies
 - 📫 How to reach me: linkedin.com/in/soso-felipe/
 
 <!---
