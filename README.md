@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felipesereno
 - 👀 I’m interested in learning new technologies and programming languages
-- 🌱 I’m currently learning DevOps culture and associated technologies
+- 🌱 I’m currently working as a software developer at Metadados
 - 📫 How to reach me: linkedin.com/in/soso-felipe/
 
 <!---
